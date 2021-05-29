@@ -1,0 +1,6 @@
+.vscode
+APIGateway/bin
+APIGateway/obj
+APIGateway/Properties
+APIGateway/appsettings.Development.json
+APIGateway/appsettings.json
